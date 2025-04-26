@@ -73,3 +73,6 @@ function exibirNomeDoPrimeiroProduto(nomeProduto) {
     primeiroProdutoElement.textContent = `Primeiro Produto: ${nomeProduto}`;
   }
 }
+```
+
+**fim**
