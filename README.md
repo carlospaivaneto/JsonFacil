@@ -75,8 +75,11 @@ function exibirNomeDoPrimeiroProduto(nomeProduto) {
 }
 ```
 
-*** Arquivo JSON ***
-``` {
+** Arquivo JSON **
+
+
+```
+{
   "nome_do_projeto": "Meu Projeto Exemplo",
   "descricao": "Este é um arquivo JSON de exemplo criado para demonstrar a estrutura básica e os tipos de dados comuns em JSON.",
   "autor": {
@@ -139,5 +142,9 @@ function exibirNomeDoPrimeiroProduto(nomeProduto) {
     ]
   },
   "notas": "Este arquivo JSON demonstra diferentes tipos de dados e estruturas que você pode encontrar em arquivos JSON reais. Use-o como um ponto de partida para seus próprios arquivos."
-}  ```
+}
+
+```
+
+
 **fim**
